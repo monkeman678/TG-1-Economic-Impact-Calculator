@@ -16,7 +16,7 @@ Open http://127.0.0.1:4173/. No package installation is required. The server bin
 npm test
 ```
 
-The `dist/` directory is also a standalone static site that can be served by any static web host. This repository does not configure a public deployment.
+The `dist/` directory is also a standalone static site that can be served by any static web host. The public site is hosted on GitHub Pages at https://monkeman678.github.io/TG-1-Economic-Impact-Calculator/.
 
 ## Model and sources
 
@@ -33,3 +33,13 @@ The modeled margin subtracts included labor and pesticide costs from the selecte
 Inputs precede route choices. Selecting a route immediately reveals calculations, charts, evaluation, and feedback; flight animation does not delay results. The yield-loss reference line appears on Total Cost only. Supporting details and individual formulas are available through ⓘ buttons.
 
 Comments and thumbs-up/down feedback are stored only in the current browser’s local storage. No feedback is sent to a server or project team.
+
+## Publish updates
+
+After committing site changes to `main`, update the Pages branch with:
+
+```sh
+git subtree push --prefix dist origin gh-pages
+```
+
+GitHub Pages publishes the root of `gh-pages`.
