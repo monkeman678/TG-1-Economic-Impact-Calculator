@@ -1,0 +1,128 @@
+{
+  "source": "Crop Protection Network \u2014 Soybean Invertebrate Pests",
+  "url": "https://cropprotectionnetwork.org/yield-loss-calculator/soybean-invertebrate-pests",
+  "retrieved": "2026-10-06",
+  "basis": "Latest available annual estimate for all soybean invertebrate pests; nominal USD loss per planted acre. Historical estimated residual yield loss, not treatment cost or guaranteed avoidable loss.",
+  "states": {
+    "Alabama": {
+      "year": 2025,
+      "lossPerAcre": 6.08,
+      "lossPercent": 1.523
+    },
+    "Arkansas": {
+      "year": 2025,
+      "lossPerAcre": 42.95,
+      "lossPercent": 6.912
+    },
+    "Delaware": {
+      "year": 2025,
+      "lossPerAcre": 17.54,
+      "lossPercent": 3.47115
+    },
+    "Georgia": {
+      "year": 2025,
+      "lossPerAcre": 13.95,
+      "lossPercent": 2.675
+    },
+    "Illinois": {
+      "year": 2025,
+      "lossPerAcre": 1.47,
+      "lossPercent": 0.2251
+    },
+    "Indiana": {
+      "year": 2017,
+      "lossPerAcre": 0.15,
+      "lossPercent": 0.03
+    },
+    "Iowa": {
+      "year": 2025,
+      "lossPerAcre": 0.22,
+      "lossPercent": 0.0342625
+    },
+    "Kentucky": {
+      "year": 2024,
+      "lossPerAcre": 13.14,
+      "lossPercent": 2.53
+    },
+    "Louisiana": {
+      "year": 2025,
+      "lossPerAcre": 18.42,
+      "lossPercent": 3.225
+    },
+    "Maryland": {
+      "year": 2025,
+      "lossPerAcre": 15.81,
+      "lossPercent": 3.47115
+    },
+    "Michigan": {
+      "year": 2025,
+      "lossPerAcre": 0.2,
+      "lossPercent": 0.04
+    },
+    "Minnesota": {
+      "year": 2021,
+      "lossPerAcre": 4.18,
+      "lossPercent": 0.68
+    },
+    "Mississippi": {
+      "year": 2025,
+      "lossPerAcre": 29.09,
+      "lossPercent": 4.67976
+    },
+    "Missouri": {
+      "year": 2025,
+      "lossPerAcre": 4.94,
+      "lossPercent": 0.9522005
+    },
+    "North Carolina": {
+      "year": 2025,
+      "lossPerAcre": 22.22,
+      "lossPercent": 5.5185
+    },
+    "North Dakota": {
+      "year": 2025,
+      "lossPerAcre": 0,
+      "lossPercent": 0
+    },
+    "Ohio": {
+      "year": 2025,
+      "lossPerAcre": 0.03,
+      "lossPercent": 0.005
+    },
+    "Oklahoma": {
+      "year": 2025,
+      "lossPerAcre": 4.68,
+      "lossPercent": 1.664
+    },
+    "South Carolina": {
+      "year": 2025,
+      "lossPerAcre": 19.5,
+      "lossPercent": 5.7
+    },
+    "South Dakota": {
+      "year": 2025,
+      "lossPerAcre": 22.76,
+      "lossPercent": 4.838
+    },
+    "Tennessee": {
+      "year": 2025,
+      "lossPerAcre": 15.84,
+      "lossPercent": 3.47
+    },
+    "Texas": {
+      "year": 2025,
+      "lossPerAcre": 25.06,
+      "lossPercent": 9.025
+    },
+    "Virginia": {
+      "year": 2025,
+      "lossPerAcre": 23.72,
+      "lossPercent": 5.6
+    },
+    "Wisconsin": {
+      "year": 2023,
+      "lossPerAcre": 17.79,
+      "lossPercent": 2.8
+    }
+  }
+}

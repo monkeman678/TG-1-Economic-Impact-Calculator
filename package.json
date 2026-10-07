@@ -1,0 +1,13 @@
+{
+  "name": "tg-1-economic-impact-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local soybean field economics and TG-1 scanning and sampling concept calculator",
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node --test tests/calculator.test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
